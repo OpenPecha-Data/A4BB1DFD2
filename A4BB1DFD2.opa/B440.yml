@@ -1,0 +1,27 @@
+segment_sources:
+  IF469EE4E:
+    type: origin_type
+    relation: translation
+    base: 7BDD
+    lang: en
+  ID93F6E74:
+    type: origin_type
+    relation: translation
+    base: 1DA0
+    lang: bo
+segment_pairs:
+  fba79686c7d6494685e55b37d1bb507c:
+    IF469EE4E: 8743434682c148b5a27ed23bbc1371c4
+    ID93F6E74: a8fe7e8b2ac9435eb7be0b13cecae586
+  cb11a9c4128e4c2ebf8992f6e75d840c:
+    IF469EE4E: bfab192b05654c63afb71a0241a0138b
+    ID93F6E74: 9c8704495be744a1b98f9eab113631f5
+  87ddbbe74ea84d2aa92f1dcaeac82865:
+    IF469EE4E: 311fcd048ee54a07b9d08cf82117043c
+    ID93F6E74: 0174a3826ab64d5393a65060edf9b584
+  f139229560814de9a62d822e19782c6c:
+    IF469EE4E: f9fb575f537b4c3eaeee95a690b71ec0
+    ID93F6E74: 7b6e67284a474ca28e83dff5ce06daab
+  0e659cd761fa4970986cb7163b020f3a:
+    IF469EE4E: 8552ef3dec384a22af4d05101d3bbbf8
+    ID93F6E74: 22fc037fbbda4148b3a9da631216273b
